@@ -10713,7 +10713,7 @@ header.masthead::after {
   background-position: center center;
   background-size: cover;
   z-index: -1;
-  filter: brightness(.25);
+  filter: brightness(.35);
 }
 
 header.masthead .masthead-subheading {
